@@ -1,5 +1,5 @@
-# scrape-AICA
-Scraping Aerospace Industries Association of Canada
+# AICA
+Extracting Aerospace Industries Association of Canada
 
 ## Motivation
 Get a better, structured overview or do analysis on the aerospace industry of Canada.
