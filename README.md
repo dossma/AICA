@@ -1,11 +1,15 @@
 # AICA
-Extracting Aerospace Industries Association of Canada
+Extracting members of Aerospace Industries Association of Canada
 
 ## Motivation
 Get a better, structured overview or do analysis on the aerospace industry of Canada.
 
-## Procedure and result
+## Disclaimer
+<!-- The Terms of Service of the data source do not prohibit extraction and the data is publicly available. -->
+The data is publicly available and no terms of service could be found, therefore extraction is deemed permitted.  
+Use this code only in an ethical way and without violating the law. 
 
+## Procedure and result
 The program strolls through the AICA members to get their data.
 
 The following data is being extracted and saved into a `csv` spreadsheet:
@@ -18,7 +22,7 @@ The following data is being extracted and saved into a `csv` spreadsheet:
 - Role of contact name 2
 - Homepage URL
 
-<img src="https://github.com/dossma/scrape-AICA/blob/main/screenshot.jpg" width=120% height=120%>
+<img src="https://github.com/user-attachments/assets/713c66e0-dff9-4e9d-a07f-7f083a78ff53" alt="aica_blurred" width=120% height=120%/>
 
 ## Get started
 After the development setup has been established (see below), just run it.
